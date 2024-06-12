@@ -4,7 +4,7 @@ import { AiOutlineMenuUnfold } from "react-icons/ai";
 
 const menuItems = [
   { id: "home", name: "Home" },
-  { id: "about", name: "About Us" },
+  { id: "about", name: "About Me" },
   { id: "trainers", name: "Gallery" },
   { id: "contact", name: "Contact Us" },
 ];
