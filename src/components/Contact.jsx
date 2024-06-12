@@ -8,7 +8,7 @@ const Contact = () => {
       <h1 className="text-5xl font-semibold text-center md:text-start mt-14 md:mt-0">
           Contact
         </h1>
-          <p className="ml-2">+49-173-3951881</p>
+          <p className="w-full md:w-3/4 space-y-5 mt-4 text-2xl">+49-173-3951881</p>
         {/* <form className="w-full md:w-2/5 space-y-5 pt-20">
           <h1 className="text-5xl font-semibold text-center">Contact Us</h1>
           <div className="flex flex-col">
