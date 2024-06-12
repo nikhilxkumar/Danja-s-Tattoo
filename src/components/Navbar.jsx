@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className="flex items-center p-2">
           <Link to="/">
             <h1 className="font-semibold text-2xl text-[#ff3939]">
-              Levels Gym
+              Danja's Tattoo
             </h1>
           </Link>
         </div>
