@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="w-full md:w-1/4">
           <Link to="/">
             <h1 className="font-semibold text-2xl text-brightRed">
-              Level Gyms
+              Danja's Tattoo
             </h1>
           </Link>
           <p className="mt-4">
@@ -28,19 +28,19 @@ const Footer = () => {
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed">Business Hours</h1>
           <ul className="mt-4">
-            <li>Mon-Sat: 7:00 AM – 12:00 AM</li>
-            <li>Sun: Closed</li>
+          <li>Mon-Sat: 11.00 Uhr – 18.00 Uhr</li>
+          <li>Sun: Closed</li>
           </ul>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed ">Contact</h1>
           <div className="flex flex-row items-center mt-4">
             <AiTwotonePhone size={20} />
-            <p className="ml-2">+92-309-4795547</p>
+            <p className="ml-2">+49-173-3951881</p>
           </div>
           <div className="flex flex-row items-center mt-2">
             <AiOutlineMail size={20} color="red" />
-            <p className="ml-2">levelszone@gmail.com</p>
+            <p className="ml-2">danjagimpel8@gmail.com</p>
           </div>
         </div>
       </div>
