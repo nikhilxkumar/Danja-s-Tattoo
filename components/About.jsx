@@ -11,14 +11,10 @@ const About = () => {
 
         <div className=" w-full md:w-3/4 space-y-5 mt-4 text-2xl ">
           <p>
-            Your well-being is your greatest wealth. Whether it's achieving
-            optimal health or enhancing your fitness journey, we're here to
-            support you every step of the way.
-            <p>
-              At our fitness center, our team of certified personal trainers,
-              attentive staff, and experienced management are dedicated to
-              fostering a nurturing environment.
-            </p>
+          Welcome to Danja Tattoo Studio! I am Danja, a passionate and dedicated tattoo artist with over 2 years of experience in the industry. 
+          My journey began with a love for art and a desire to create unique, meaningful designs that clients can cherish forever. 
+          I take pride in transforming your ideas into stunning, custom tattoos. Every piece is crafted with precision, creativity, and a commitment to excellence. 
+          Let's create something beautiful together!
           </p>
         </div>
       </div>
