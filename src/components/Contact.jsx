@@ -11,7 +11,7 @@ const Contact = () => {
           <p>
           +49-173-3951881
             </p>
-          <p><a href="https://www.instagram.com/danjas_tattoo_/">My Instagram</a> (Preferred)</p>
+          <p><a href="https://www.instagram.com/danjas_tattoo_/" style="color: #E6533C;">My Instagram</a> (Preferred)</p>
         </div>
       </div>
   );
