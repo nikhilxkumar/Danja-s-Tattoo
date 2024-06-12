@@ -49,13 +49,13 @@ const Contact = () => {
           </div>
           <div className="flex flex-row justify-center space-x-4">
             <Button title="Send Message" />
-            <Button title="Start a call" href="tel:+92" />
+            {/* <Button title="Start a call" href="tel:+92" /> */}
           </div>
         </form>
         <div className="flex flex-row items-center w-full md:w-2/4 my-5">
           <iframe
             title="Location"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108915.64214412407!2d74.19009261029682!3d31.452296963075824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391901246c16dbad%3A0x9fb71f55f2cb6a59!2sLevels%20gym!5e0!3m2!1sen!2s!4v1709278409350!5m2!1sen!2s"
+            src="https://www.google.com/maps/place/38723+Seesen/@51.8864202,10.0644846,12z/data=!3m1!4b1!4m6!3m5!1s0x47a535d3f1085149:0x4248963c6584000!8m2!3d51.8914818!4d10.1798261!16zL20vMGM2N2Rz?authuser=0&entry=ttu"
             width="500"
             height="450"
             style={{ border: 0 }}

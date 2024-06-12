@@ -16,13 +16,13 @@ const Footer = () => {
             </h1>
           </Link>
           <p className="mt-4">
-            The best fitness destination in Lahore, for men and women.
+          Creating timeless art, one tattoo at a time.
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed">Address</h1>
           <p className="mt-4">
-            Plot 339 Block R2 Johar Town Lahore, 54000 Pakistan
+            Seesen, 38723, Niedersachsen, Deutschland
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
       <div className="mt-8">
         <p className="text-center">
-          © <span className="text-brightRed">Levels gym</span> | {newDate}
+          © <span className="text-brightRed">Danja's Tattoo</span> | {newDate}
         </p>
       </div>
     </div>
