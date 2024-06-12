@@ -5,7 +5,10 @@ const Contact = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center md:mx-32 mx-5 mt-10">
       <div className="flex flex-col md:flex-row justify-between w-full">
-      <p className="ml-2">+49-173-3951881</p>
+      <h1 className="text-5xl font-semibold text-center md:text-start mt-14 md:mt-0">
+          Contact
+        </h1>
+          <p className="ml-2">+49-173-3951881</p>
         {/* <form className="w-full md:w-2/5 space-y-5 pt-20">
           <h1 className="text-5xl font-semibold text-center">Contact Us</h1>
           <div className="flex flex-col">
