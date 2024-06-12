@@ -33,9 +33,7 @@ const App = () => {
         <section id="about">
           <About />
         </section>
-        <section id="plans">
-          <Plans />
-        </section>
+
 
         <section id="trainers">
           <Trainers />
