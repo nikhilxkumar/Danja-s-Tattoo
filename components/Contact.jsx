@@ -51,17 +51,6 @@ const Contact = () => {
             <Button title="Send Message" />
           </div>
         </form>
-        <div className="flex flex-row items-center w-full md:w-2/4 my-5">
-          <iframe
-            title="Location"
-            src="https://www.google.com/maps/place/Uhlandstra%C3%9Fe,+33100+Paderborn/@51.7264613,8.7815548,16z/data=!3m1!4b1!4m6!3m5!1s0x47ba4cfb183887ab:0xa93fa4df7748c549!8m2!3d51.726458!4d8.7841297!16s%2Fg%2F1tx1s933?authuser=0&entry=ttu"
-            width="500"
-            height="450"
-            style={{ border: 0 }}
-            allowFullScreen=""
-            loading="lazy"
-          ></iframe>
-        </div>
       </div>
     </div>
   );
