@@ -6,7 +6,7 @@ const menuItems = [
   { id: "home", name: "Home" },
   { id: "about", name: "About Me" },
   { id: "trainers", name: "Gallery" },
-  { id: "contact", name: "Contact Us" },
+  { id: "contact", name: "Contact" },
 ];
 
 const Navbar = () => {
